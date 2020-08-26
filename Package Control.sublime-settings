@@ -1,16 +1,46 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"A File Icon",
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"Babel",
+		"Babel Snippets",
+		"Baobab React ES6 Snippets",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorSchemeEditor",
+		"Crystal",
+		"DA UI",
+		"Elixir",
+		"ElixirSublime",
+		"ElixirSyntax",
+		"Elm Syntax Highlighting",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Emmet Style Reflector",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"JsPrettier",
+		"Package Control",
+		"PackageResourceViewer",
+		"React ES6 Snippets",
+		"Ruby Slim",
+		"SCSS",
+		"Seti_UI",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SummitLinter",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
 }

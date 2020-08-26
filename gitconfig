@@ -12,6 +12,7 @@
 [core]
   pager = less -FRSX
 	editor = '/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -n -w
+	autocrlf = input
 
 [alias]
   co = checkout
@@ -37,6 +38,7 @@
 
   # Removes a file from the index
   unstage = reset HEAD --
+	conflicts = !git ls-files -u | cut -f 2 | sort -u
 
 [help]
   autocorrect = 1
@@ -49,3 +51,5 @@
 [user]
 	email = dinnerpartysaboteur@gmail.com
 	name = Rui Freitas
+[pull]
+	ff = only
